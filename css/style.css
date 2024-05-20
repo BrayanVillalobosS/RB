@@ -2904,6 +2904,10 @@ fieldset:disabled a.btn {
   background-color: transparent;
 }
 
+.sidebar-container{
+  display: none;
+}
+
 .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active,
 .show > .btn-outline-dark.dropdown-toggle {
   color: #fff;
